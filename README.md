@@ -1,4 +1,4 @@
-# AngularNgrxMaterialTutorial
+# Angular Material with Ngrx Tutorial
 
 This is code repository for the tutorial: 
 
