@@ -1,6 +1,8 @@
 # AngularNgrxMaterialTutorial
 
-This is code repository for the tutorial: ### Angular Material UI Tutorial with NGRX
+This is code repository for the tutorial: 
+
+### Angular Material UI Tutorial with NGRX
 
 You can read the detailed tutorial at: https://programmerblog.net/angular-material-ui-tutorial-with-ngrx/
 
