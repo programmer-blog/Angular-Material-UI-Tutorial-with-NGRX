@@ -2,7 +2,7 @@
 
 This is code repository for the tutorial 
 
-you can read the detailed tutorial at: 
+You can read the detailed tutorial at: https://programmerblog.net/angular-material-ui-tutorial-with-ngrx/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
